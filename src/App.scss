@@ -139,9 +139,11 @@ p{font-family: 'Times New Roman', Times, serif;}
   font-size: 1rem;
   font-weight: 600;
   letter-spacing: var(--mainSpacing);
+  font-family: 'Playfair Display', serif;
 }
 .nav-links .link:hover {
   color: var(--primaryColor);
+  
 }
 
 .show-nav {
