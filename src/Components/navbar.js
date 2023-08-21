@@ -10,8 +10,8 @@ const navbar = () => {
             
         <Navbar expand="lg" className=" navbar">
         <Container>
-            <Navbar.Brand href="/" >
-                <p className='logo m-auto'>GetARoom</p>
+            <Navbar.Brand  >
+                <Link to="/" className='logo m-auto text-decoration-none'>GetARoom</Link>
             </Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll"  />
                 <Navbar.Collapse id="navbarScroll">
