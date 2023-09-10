@@ -33,8 +33,8 @@ In the project directory, you can run:
 
 <div style="display:block; ">
   <h3 style="color:#facd8a ">Website Screenshot in mobile screen </h3>
-    <img src='ScreenShoots/1.jpg' width="80%" style="border-radius: 40px; margin: 30px;" >  
-    <img src='ScreenShoots/2.jpg' width="80%" style="border-radius: 40px; margin: 30px;" > 
+    <img src='ScreenShoots/1.png' width="80%" style="border-radius: 40px; margin: 30px;" >  
+    <img src='ScreenShoots/2.png' width="80%" style="border-radius: 40px; margin: 30px;" > 
     
 </div>
 
